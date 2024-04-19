@@ -1,0 +1,12 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM6",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "files.associations": {
+        "nvs_flash.h": "c",
+        "random": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
